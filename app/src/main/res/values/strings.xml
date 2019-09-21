@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomBleService</string>
+    <string name="bt_name">我是动画</string>
+</resources>
